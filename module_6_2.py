@@ -23,8 +23,8 @@ class Vehicle:
         print(f'Владелец: {self.owner}')
 
     def set_color(self, new_color: str):
-        new_color = new_color.lower()
-        if new_color in self.__COLOR_VARIANTS:
+        new_color_chk = new_color.lower()
+        if new_color_chk in self.__COLOR_VARIANTS:
             self.__color = new_color
         else:
             print(f'Нельзя сменить цвет на {new_color}')
@@ -53,8 +53,8 @@ vehicle1.print_info()
 # Мощность двигателя: 500
 # Цвет:  blue
 # Владелец: Fedos
-# Нельзя сменить цвет на pink
+# Нельзя сменить цвет на Pink
 # Модель: Toyota Mark II
 # Мощность двигателя: 500
-# Цвет:  black
+# Цвет:  BLACK
 # Владелец: Vasyok
