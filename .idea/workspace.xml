@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6694339-ba34-4986-9ff4-afc61c803d6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_6_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module6hard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,19 +44,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.CocpAcsParPropRedefProp2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ConcpectAccessParentsPropRedefindingProp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ConcpectInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ConcpectMultipleInheritanceSuper().executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_6_3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.CocpAcsParPropRedefProp2.executor": "Run",
+    "Python.ConcpectAccessParentsPropRedefindingProp.executor": "Run",
+    "Python.ConcpectInheritance.executor": "Run",
+    "Python.ConcpectMultipleInheritanceSuper().executor": "Run",
+    "Python.module6hard.executor": "Run",
+    "Python.module_6_1.executor": "Run",
+    "Python.module_6_2.executor": "Run",
+    "Python.module_6_3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ConcpectInheritance" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="HW_Urban_Modul_6" />
